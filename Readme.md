@@ -15,6 +15,7 @@ To get the code ready to work:
 - Copy the code on your computer, for example by cloning this repo.
 - Make sure to have the necessary packages: ffmpeg, v4l-utils.
 - Make sure you have the necessary python modules: scipy, matplotlib, google, a (correctly) installed PIL.
+- Create and set up your google cloud account, project and credentials: see the associated post.
 - Adapt the *detect_faces.sh* script with the right path to your JSON credential.
 - Make the script executable: chmod +x detect_faces.sh
 
@@ -25,3 +26,7 @@ Simply:
 ```
 ./detect_faces.sh
 ```
+
+Have fun!
+
+![](Images_crrt/crrt_image_highlighted_image_in.jpg)
